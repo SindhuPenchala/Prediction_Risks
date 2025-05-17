@@ -1,0 +1,41 @@
+﻿patient_id,age,gender,onset_age,start_area,spread_areas,stress,family_history,drugs_used,coping_activities,years_since_onset
+P1,16,Male,3,Feet,Whole Body,No,No,Zempred; Melgain; Mometasone,Reading,13
+P2,28,Female,12,Feet,None,No,No,Tacrolimus,Art,16
+P3,28,Male,9,Arms,None,No,No,Melgain,Painting,19
+P4,34,Male,33,Face,Neck; Hands; Chest,Yes,No,Mometasone; Tacrolimus,Reading,1
+P5,30,Female,16,Hands,Chest,No,No,Melgain; Tacrolimus,Exercise; Reading,14
+P6,37,Female,3,Chest,None,No,Yes,Melgain,Exercise,34
+P7,65,Male,49,Feet,Hands,No,No,Melgain,Exercise,16
+P8,40,Female,37,Feet,Whole Body,No,Yes,Zempred; Tacrolimus; Mometasone,Exercise; Art,3
+P9,58,Female,44,Legs,Arms; Neck; Feet,No,No,Tacrolimus; Melgain,Exercise,14
+P10,63,Male,50,Neck,Whole Body,No,No,Zempred,Painting; Art,13
+P11,44,Male,30,Hands,Arms; Feet,No,Yes,Mometasone; Tacrolimus,Reading,14
+P12,60,Female,44,Chest,Neck; Arms; Hands,Yes,Yes,Mometasone; Melgain,Exercise,16
+P13,50,Female,25,Face,Whole Body,No,Yes,Zempred; Tacrolimus,Reading; Painting,25
+P14,18,Male,17,Legs,None,No,No,Tacrolimus,Exercise,1
+P15,41,Female,20,Face,Neck,No,No,Tacrolimus; Mometasone,Reading,21
+P16,47,Male,46,Hands,Arms,Yes,No,Mometasone; Tacrolimus,Reading,1
+P17,22,Female,8,Face,None,No,No,Tacrolimus; Melgain,Painting,14
+P18,35,Male,22,Arms,Neck; Chest,No,Yes,Mometasone; Tacrolimus,Art,13
+P19,14,Male,12,Legs,None,No,No,Tacrolimus,Exercise,2
+P20,27,Female,15,Face,Hands; Arms,No,No,Tacrolimus; Mometasone,Reading,12
+P21,55,Female,35,Hands,Feet; Legs,No,Yes,Melgain; Tacrolimus,Art,20
+P22,19,Male,5,Legs,None,No,No,Melgain,Reading,14
+P23,23,Female,21,Neck,Face,No,No,Tacrolimus,Painting,2
+P24,48,Male,26,Chest,Arms; Legs,No,No,Mometasone; Melgain,Exercise; Painting,22
+P25,5,Male,4,Chest,Neck,No,Yes,Tacrolimus; Melgain,Reading,1
+P26,36,Female,18,Hands,Feet; Neck,No,No,Mometasone; Tacrolimus,Exercise,18
+P27,33,Female,13,Legs,Feet,No,No,Tacrolimus; Melgain,Reading; Painting,20
+P28,52,Male,38,Hands,Chest; Face,No,Yes,Tacrolimus; Mometasone,Art,14
+P29,33,Male,17,Legs,Whole Body,No,Yes,Zempred; Mometasone,Painting,16
+P30,45,Male,10,Face,Neck; Chest; Arms,No,No,Tacrolimus; Melgain,Art,35
+P31,26,Female,24,Hands,Face,No,No,Tacrolimus,Reading,2
+P32,22,Male,10,Hands,None,No,No,Melgain,Art,12
+P33,15,Female,13,Legs,None,No,No,Melgain,Painting,2
+P34,47,Female,25,Neck,Face; Chest,No,No,Tacrolimus; Mometasone,Reading,22
+P35,29,Male,21,Feet,Hands; Arms,No,No,Tacrolimus; Mometasone,Exercise,8
+P36,20,Male,11,Face,Feet; Hands,No,Yes,Mometasone,Painting,9
+P37,32,Female,6,Feet,Whole Body,No,Yes,Zempred,Painting; Exercise,26
+P38,35,Female,22,Face,Legs; Arms,No,No,Mometasone,Painting,13
+P39,40,Male,10,Feet,Legs; Chest,No,No,Zempred,Exercise,30
+P40,33,Female,10,Arms,None,No,Yes,Tacrolimus; Mometasone,Painting; Art,23
